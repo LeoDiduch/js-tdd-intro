@@ -1,7 +1,7 @@
 {
   "name": "js-tdd-intro",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript TDD",
   "main": "capitalizeFirst.js",
   "scripts": {
     "test": "mocha"
@@ -10,9 +10,20 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.2"
   },
   "dependencies": {
     "node_module": "0.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoDiduch/js-tdd-intro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeoDiduch/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/LeoDiduch/js-tdd-intro#readme"
 }
